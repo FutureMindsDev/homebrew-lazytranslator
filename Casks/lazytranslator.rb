@@ -1,6 +1,6 @@
 cask "lazytranslator" do
-  version "1.1.1"
-  sha256 "0dc17cdf1f440662178bbbc9779b5ce6b05115e56a310df2cd8780e21ee82a97"
+  version "1.1.2"
+  sha256 "17214f6c3b1bc666dc30c33df006dab5805d3c135b94e82970ac7fbc04c876fd"
 
   url "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v#{version}/LazyTranslator-v#{version}-macos-arm64.dmg",
       verified: "github.com/FutureMindsDev/homebrew-lazytranslator/"

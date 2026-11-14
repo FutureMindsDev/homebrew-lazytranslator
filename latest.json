@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
-  "release_notes": "Fix update check timeout & add raw.githubusercontent.com fallback",
-  "pub_date": "2026-11-14T07:47:19Z",
-  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.1.1/LazyTranslator-v1.1.1-macos-arm64.dmg",
-  "macos_dmg_sha256": "0dc17cdf1f440662178bbbc9779b5ce6b05115e56a310df2cd8780e21ee82a97",
+  "version": "1.1.2",
+  "release_notes": "Fast Happy-Eyeballs IP probing for GitHub & CDN update checks",
+  "pub_date": "2026-11-14T07:59:13Z",
+  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.1.2/LazyTranslator-v1.1.2-macos-arm64.dmg",
+  "macos_dmg_sha256": "17214f6c3b1bc666dc30c33df006dab5805d3c135b94e82970ac7fbc04c876fd",
   "windows_exe_url": null,
   "windows_exe_sha256": null
 }
