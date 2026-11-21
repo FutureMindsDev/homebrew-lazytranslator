@@ -23,19 +23,14 @@
 
 ## Option 2: Install via Homebrew
 
-Install directly from this tap:
+Install directly from this tap and clear the macOS Gatekeeper quarantine flag (required until Apple notarization is enabled):
 
 ```bash
 brew install --cask FutureMindsDev/lazytranslator/lazytranslator
+xattr -dr com.apple.quarantine /Applications/LazyTranslator.app
 ```
 
-Or pass `--no-quarantine` until Apple notarization is enabled:
-
-```bash
-brew install --cask --no-quarantine FutureMindsDev/lazytranslator/lazytranslator
-```
-
-*(If you installed without `--no-quarantine` and macOS blocks the first launch, run `xattr -dr com.apple.quarantine /Applications/LazyTranslator.app`.)*
+*(Alternatively, after `brew install --cask FutureMindsDev/lazytranslator/lazytranslator`, you can open **System Settings → Privacy & Security** and click **Open Anyway**.)*
 
 ---
 
