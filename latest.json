@@ -1,9 +1,9 @@
 {
-  "version": "1.1.3",
-  "release_notes": "Remove duplicate Check for Updates button from Privacy modal",
-  "pub_date": "2026-11-14T08:38:10Z",
-  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.1.3/LazyTranslator-v1.1.3-macos-arm64.dmg",
-  "macos_dmg_sha256": "a9421bb7d57e4383cc1007f6c20e60227157109fd363500cdee9bbccc0450c64",
+  "version": "1.3.1",
+  "release_notes": "Two-step localized onboarding, modal backdrop dismissal, KBZPay QR, and Burmese Step 1 fix",
+  "pub_date": "2026-11-21T13:49:06Z",
+  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.3.1/LazyTranslator-v1.3.1-macos-arm64.dmg",
+  "macos_dmg_sha256": "8c92958ce4e62cdda5e4370c895a9031657c9699ea220096eed3f6bf825eaa61",
   "windows_exe_url": null,
   "windows_exe_sha256": null
 }
