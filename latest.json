@@ -1,9 +1,9 @@
 {
-  "version": "1.3.2",
-  "release_notes": "Clarify Clear All Sessions modal copy",
-  "pub_date": "2026-11-21T14:32:35Z",
-  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.3.2/LazyTranslator-v1.3.2-macos-arm64.dmg",
-  "macos_dmg_sha256": "596eac457263013924b6951401a003b27766cfe4a571401e56640b2eb07b57ab",
+  "version": "1.4.0",
+  "release_notes": "Tier-grouped Model Manager, Settings modal, top-bar info modal, 2x modal margins, and Onboarding Step 2 fix",
+  "pub_date": "2026-11-27T06:09:30Z",
+  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.4.0/LazyTranslator-v1.4.0-macos-arm64.dmg",
+  "macos_dmg_sha256": "a1d16794c8bf1440bc443fd0cc14afa87e6e71f0fbc24f61aa3e1a167c5b4906",
   "windows_exe_url": null,
   "windows_exe_sha256": null
 }
