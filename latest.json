@@ -1,9 +1,9 @@
 {
-  "version": "1.4.0",
-  "release_notes": "Tier-grouped Model Manager, Settings modal, top-bar info modal, 2x modal margins, and Onboarding Step 2 fix",
-  "pub_date": "2026-11-27T06:09:30Z",
-  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.4.0/LazyTranslator-v1.4.0-macos-arm64.dmg",
-  "macos_dmg_sha256": "a1d16794c8bf1440bc443fd0cc14afa87e6e71f0fbc24f61aa3e1a167c5b4906",
+  "version": "1.5.0",
+  "release_notes": "Hy-MT3 translation (1.8B/7B/30B-A3B) + Qwen3-VL-8B OCR lineup, 24 GB Best tier",
+  "pub_date": "2026-11-27T06:52:58Z",
+  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.5.0/LazyTranslator-v1.5.0-macos-arm64.dmg",
+  "macos_dmg_sha256": "b3514fbd5f7b90c75448a57dada986654550c747a31e6a9a2a8bcdae1ee71517",
   "windows_exe_url": null,
   "windows_exe_sha256": null
 }
