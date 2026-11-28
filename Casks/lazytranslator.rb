@@ -6,7 +6,7 @@ cask "lazytranslator" do
       verified: "github.com/FutureMindsDev/homebrew-lazytranslator/"
   name "LazyTranslator"
   desc "100% Local, Studio-Grade Multilingual Translation & Transcription"
-  homepage "https://lazytranslator.app"
+  homepage "https://lazytranslator.vercel.app"
 
   auto_updates true
   depends_on macos: ">= :ventura"
