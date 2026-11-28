@@ -42,12 +42,12 @@
 3. Drag **`LazyTranslator.app`** into the **`Applications`** folder shortcut.
 4. Launch **LazyTranslator** from **Applications** or Spotlight.
 
-**Version-pinned direct link:** [LazyTranslator-v1.5.1-macos-arm64.dmg](https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.5.1/LazyTranslator-v1.5.1-macos-arm64.dmg) · SHA-256 `b7bd899cefd57b528a099fc84fcca448f7cfcea79033422ff46488d7190b49ba`
+**Version-pinned direct link:** [LazyTranslator-v1.6.0-macos-arm64.dmg](https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.6.0/LazyTranslator-v1.6.0-macos-arm64.dmg) · SHA-256 `165dca9b60f947a4f7f4878f1edd89b27365c5007c1836f8604f04d1c5ec1e21`
 
 Verify the checksum after downloading:
 
 ```bash
-shasum -a 256 ~/Downloads/LazyTranslator-v1.5.1-macos-arm64.dmg
+shasum -a 256 ~/Downloads/LazyTranslator-v1.6.0-macos-arm64.dmg
 ```
 
 <p align="center">
@@ -127,11 +127,12 @@ LazyTranslator **never** checks for updates in the background. You are always in
 
 ## 🏷️ Versions, Tags & Downloads
 
-Current release: **v1.5.1** — *Per-model Hy-MT3 sampling configuration (Lite/Balanced/Best) and 3-layer GGUF metadata fallback*.
+Current release: **v1.6.0** — *Native hardburned video subtitle studio (.mp4, .mov, .m4v) with live frame preview and Burmese CoreText shaping*.
 
 | Version | Released | Download |
 | :--- | :--- | :--- |
-| **v1.5.1** (latest) | 2026-11-28 | [.dmg](https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.5.1/LazyTranslator-v1.5.1-macos-arm64.dmg) |
+| **v1.6.0** (latest) | 2026-11-29 | [.dmg](https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.6.0/LazyTranslator-v1.6.0-macos-arm64.dmg) |
+| v1.5.1 | 2026-11-28 | [Release notes](https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/tag/v1.5.1) |
 | v1.5.0 | 2026-11-27 | [Release notes](https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/tag/v1.5.0) |
 | v1.4.0 | 2026-11-27 | [Release notes](https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/tag/v1.4.0) |
 

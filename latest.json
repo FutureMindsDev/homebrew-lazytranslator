@@ -1,9 +1,9 @@
 {
-  "version": "1.5.1",
-  "release_notes": "Per-model Hy-MT3 sampling configuration (Lite/Balanced/Best) and 3-layer GGUF metadata fallback",
-  "pub_date": "2026-11-28T12:54:10Z",
-  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.5.1/LazyTranslator-v1.5.1-macos-arm64.dmg",
-  "macos_dmg_sha256": "b7bd899cefd57b528a099fc84fcca448f7cfcea79033422ff46488d7190b49ba",
+  "version": "1.6.0",
+  "release_notes": "Native hardburned video subtitle studio (.mp4, .mov, .m4v) with live frame preview and Burmese CoreText shaping",
+  "pub_date": "2026-11-28T19:28:37Z",
+  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.6.0/LazyTranslator-v1.6.0-macos-arm64.dmg",
+  "macos_dmg_sha256": "165dca9b60f947a4f7f4878f1edd89b27365c5007c1836f8604f04d1c5ec1e21",
   "windows_exe_url": null,
   "windows_exe_sha256": null
 }
