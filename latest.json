@@ -1,9 +1,9 @@
 {
-  "version": "1.5.0",
-  "release_notes": "Hy-MT3 translation (1.8B/7B/30B-A3B) + Qwen3-VL-8B OCR lineup, 24 GB Best tier",
-  "pub_date": "2026-11-27T06:52:58Z",
-  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.5.0/LazyTranslator-v1.5.0-macos-arm64.dmg",
-  "macos_dmg_sha256": "b3514fbd5f7b90c75448a57dada986654550c747a31e6a9a2a8bcdae1ee71517",
+  "version": "1.5.1",
+  "release_notes": "Per-model Hy-MT3 sampling configuration (Lite/Balanced/Best) and 3-layer GGUF metadata fallback",
+  "pub_date": "2026-11-28T12:54:10Z",
+  "macos_dmg_url": "https://github.com/FutureMindsDev/homebrew-lazytranslator/releases/download/v1.5.1/LazyTranslator-v1.5.1-macos-arm64.dmg",
+  "macos_dmg_sha256": "b7bd899cefd57b528a099fc84fcca448f7cfcea79033422ff46488d7190b49ba",
   "windows_exe_url": null,
   "windows_exe_sha256": null
 }
